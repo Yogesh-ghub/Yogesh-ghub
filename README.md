@@ -1,5 +1,3 @@
-<img src="https://github.com/Yogesh-ghub/Yogesh-ghub/blob/a02a0dd19055bab0dc0e4eb6199188a557673c02/header_name.png" alt="Header image">
-
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 - 👩🏻‍💻 Student of Computer Science.
 - 💻 Full Stack Web Devoloper.
@@ -69,9 +67,7 @@ I like experimenting with new technologies, building small projects, and occassi
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
-  <a href="https://twitter.com/YogeshC29365475" alt=""twitter><img src="https://github.com/Yogesh-ghub/Yogesh-ghub/blob/667c955c179b1e7fa9b8e422596c610273f90933/twitter-fill.svg"></a>
-  <a href="https://www.linkedin.com/in/yogesh-chandra-sharma-59147b201/" alt="Linkedin"><img src="https://github.com/Yogesh-ghub/Yogesh-ghub/blob/667c955c179b1e7fa9b8e422596c610273f90933/linkedin-fill.svg"></a>
+  <a href="https://twitter.com/YogeshC29365475" alt=""twitter><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
+  <a href="https://www.linkedin.com/in/yogesh-chandra-sharma-59147b201/" alt="Linkedin"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
     <a href="mailto:002chandra.yogesh@gmail.com" alt="contact me"><img src="https://github.com/Yogesh-ghub/Yogesh-ghub/blob/667c955c179b1e7fa9b8e422596c610273f90933/mail-fill.svg"></a>
  <br><br>
-    
-<img src="https://github.com/Yogesh-ghub/Yogesh-ghub/blob/7fb32a2dd8b342f35778192149fd5c5269839bec/footer.png" alt="footer">
